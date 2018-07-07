@@ -1,0 +1,5 @@
+﻿{
+    "connectionString": "mongodb://myinapp:myinapp@ds119449.mlab.com:19449/myinapp",
+    "apiUrl": "https://myyologin.herokuapp.com/api",
+    "secret": "REPLACE THIS WITH YOUR OWN SECRET, IT CAN BE ANY STRING"
+}
